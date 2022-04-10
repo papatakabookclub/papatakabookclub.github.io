@@ -7,18 +7,11 @@ Papataka Book Club is a Virtual Book Club where we discuss about books and parti
 - If a message asks for a positive response like an RSVP, don’t reply in the negative. Only say if you are able to attend. Don’t double RSVP if a second call to action is sent out for the same event.
 - If someone asks a question and you don’t know the answer don’t respond with “I don’t know”. Just wait for someone who knows the answer to reply.
 
-## March Book of the Month
+## April Book of the Month
 
-- Papataka Book Club’s March read is ‘The Kite Runner’ by Khaled Hosseini📖   
-- **Homework**: Finish the book and join the book discussion on March 26 virtually💻   
-- [Post](https://www.instagram.com/p/CahNLz3vUzg/) | [Picture](images/March.png)
-
-## February Book of the Month
-
-- Papataka Book Club’s February read is **‘Sapiens’** by *Yuval Noah Harari*📖 
-- A Brief History of Humankind🤠   
-- **Homework**: Finish the book and join the book discussion on February 26 virtually💻   
-- [Post](https://www.instagram.com/p/CZKctmgIUKl/) | [Picture](images/FEB.png)
+- Papataka Book Club’s April read is ‘Before the Coffee Gets Cold’ by Toshikazu Kawaguchi📖
+- **Homework**: Finish the book and join the book discussion on April 30 virtually💻
+- [Post](https://www.instagram.com/p/CbxKwIcBG8G/) | [Picture](images/April.png)
 
 ## Papataka Book Club’s Reading challenge 2022
 
@@ -33,6 +26,19 @@ Papataka Book Club is a Virtual Book Club where we discuss about books and parti
 Whoever finishes the challenge by the end of 2022 will be rewarded with awesome Goodies. Make sure you post the books you have chosen for the Challenge and also use these templates by tagging @papatakabookclub.   
 Templates to use:   
 - [Template1](images/1.png) | [Template2](images/2.png)
+
+## March Book of the Month
+
+- Papataka Book Club’s March read is ‘The Kite Runner’ by Khaled Hosseini📖   
+- **Homework**: Finish the book and join the book discussion on March 26 virtually💻   
+- [Post](https://www.instagram.com/p/CahNLz3vUzg/) | [Picture](images/March.png)
+
+## February Book of the Month
+
+- Papataka Book Club’s February read is **‘Sapiens’** by *Yuval Noah Harari*📖 
+- A Brief History of Humankind🤠   
+- **Homework**: Finish the book and join the book discussion on February 26 virtually💻   
+- [Post](https://www.instagram.com/p/CZKctmgIUKl/) | [Picture](images/FEB.png)
 
 ## January Book of the Month
 
