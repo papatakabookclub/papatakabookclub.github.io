@@ -1,10 +1,11 @@
 ---
 title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
+markdown: GFM
 ---
-# Papataka Book Club A to Z Challenge 2022
+## Papataka Book Club A to Z Challenge 2022
 [Back to Home](https://papatakabookclub.github.io/)
-## Leader Board (last updated on)
+### Leader Board (last updated on)
 |Reader|Points|
 |:---|---:|
 |||
