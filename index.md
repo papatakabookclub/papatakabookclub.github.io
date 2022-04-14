@@ -28,7 +28,7 @@ Templates to use:
 - [Template1](images/1.png) | [Template2](images/2.png)
 
 ## Papataka Book Club A to Z Challenge 2022
-[A to Z Challenge](https://papatakabookclub.github.io/Papataka-Book-Club-A-to-Z-Challenge-2022/) 👈Comming Soon
+[A to Z Challenge](https://papatakabookclub.github.io/Papataka-Book-Club-A-to-Z-Challenge-2022/) | 👈Comming Soon
 
 ## March Book of the Month
 
