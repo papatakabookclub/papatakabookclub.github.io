@@ -27,6 +27,8 @@ Whoever finishes the challenge by the end of 2022 will be rewarded with awesome 
 Templates to use:   
 - [Template1](images/1.png) | [Template2](images/2.png)
 
+[Papataka Book Club A to Z Challenge 2022](A2Z.md) Comming Soon
+
 ## March Book of the Month
 
 - Papataka Book Club’s March read is ‘The Kite Runner’ by Khaled Hosseini📖   
