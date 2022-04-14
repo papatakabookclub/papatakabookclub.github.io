@@ -1,7 +1,6 @@
 ---
 title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
-markdown: GFM
 ---
 # A to Z Challenge 2022
 ## Leader Board (last updated on)
