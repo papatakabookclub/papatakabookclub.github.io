@@ -1,4 +1,8 @@
+Welcome!
 Papataka Book Club is a Virtual Book Club where we discuss about books and participate in fun reading activities.
+
+## Follow us on our socials
+- [Instagram](https://www.instagram.com/papatakabookclub/) |  [Twitter](https://twitter.com/PapatakaClub) |   [Clubhouse](https://www.clubhouse.com/join/papataka-book-club/UMhzRvrU) | [Public Telegram Group](https://t.me/papatakabookclub) |  [Goodreads](https://www.goodreads.com/group/show/720243-papataka-book-club) |
 
 ## Group Rules
 - Always keep to the purpose of the group, which is books and only books. Don’t share any messages about other topics. strictly no forwards.
