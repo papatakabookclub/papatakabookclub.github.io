@@ -7,6 +7,9 @@ Papataka Book Club is a Virtual Book Club where we discuss about books and parti
 - [Clubhouse](https://www.clubhouse.com/join/papataka-book-club/UMhzRvrU) | 
 - [Public Telegram Group](https://t.me/papatakabookclub) |  
 - [Goodreads](https://www.goodreads.com/group/show/720243-papataka-book-club) |
+- 
+## Papataka Book Club A to Z Challenge 2022
+- [A to Z Challenge](https://papatakabookclub.github.io/A-to-Z-Challenge-2023/) | 👈Check This!
 
 ## Group Rules
 - Always keep to the purpose of the group, which is books and only books. Don’t share any messages about other topics. strictly no forwards.
@@ -35,8 +38,6 @@ Whoever finishes the challenge by the end of 2022 will be rewarded with awesome 
 Templates to use:   
 - [Template1](images/1.png) | [Template2](images/2.png)
 
-## Papataka Book Club A to Z Challenge 2022
-- [A to Z Challenge](https://papatakabookclub.github.io/A-to-Z-Challenge-2022/) | 👈Comming Soon
 
 ## March Book of the Month
 
