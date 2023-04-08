@@ -8,7 +8,7 @@ Papataka Book Club is a Virtual Book Club where we discuss about books and parti
 - [Public Telegram Group](https://t.me/papatakabookclub) |  
 - [Goodreads](https://www.goodreads.com/group/show/720243-papataka-book-club) |
 - 
-## Papataka Book Club A to Z Challenge 2022
+## Papataka Book Club A to Z Challenge 2023
 - [A to Z Challenge](https://papatakabookclub.github.io/A-to-Z-Challenge-2023/) | 👈Check This!
 
 ## Group Rules
