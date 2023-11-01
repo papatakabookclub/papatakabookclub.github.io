@@ -1,13 +1,19 @@
 Welcome! <br>
 Papataka Book Club is a Virtual Book Club where we discuss about books and participate in fun reading activities.
 
-## Follow us on our socials to join the BookClub!
+## November Book of the Month
+- [BOTM](https://papatakabookclub.github.io/BOTM) | 👈Check This!
+
+## Gutenberg's Random Picks Challenge!
+- [Challenge](https://papatakabookclub.github.io/BOTM/#stronggutenbergs-random-picks-challengestrong) | 👈Check This!
+
+ ## Follow us on our socials to join the BookClub!
 - [Instagram](https://www.instagram.com/papatakabookclub/) |  
 - [Twitter](https://twitter.com/PapatakaClub) |   
 - [Clubhouse](https://www.clubhouse.com/join/papataka-book-club/UMhzRvrU) | 
 - [Public Telegram Group](https://t.me/papatakabookclub) |  
 - [Goodreads](https://www.goodreads.com/group/show/720243-papataka-book-club) |
-- 
+
 ## Papataka Book Club A to Z Challenge 2023
 - [A to Z Challenge](https://papatakabookclub.github.io/A-to-Z-Challenge-2023/) | 👈Check This!
 
