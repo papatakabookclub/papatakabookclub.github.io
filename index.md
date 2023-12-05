@@ -1,7 +1,7 @@
 Welcome! <br>
 Papataka Book Club is a Virtual Book Club where we discuss about books and participate in fun reading activities.
 
-## November Book of the Month
+## December Book of the Month
 - [BOTM](https://papatakabookclub.github.io/BOTM) | 👈Check This!
 
 ## Gutenberg's Random Picks Challenge!
